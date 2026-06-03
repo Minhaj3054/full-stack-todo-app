@@ -14,6 +14,18 @@
     <title>Full Stack Todo App</title>
 </head>
 <body>
-    <h2>hello</h2>
+    <main>
+        <div class="container">
+            <div class="todo-tracker">
+                <div class="task-tracker-text">
+                    <h2>Tasks Completed</h2>
+                    <p class="completed-subheading">Keep it up</p>
+                </div>
+                <div class="task-counter">
+                    1 <span class="spacer">/</span> 3
+                </div>
+            </div>
+        </div>
+    </main>
 </body>
 </html>
